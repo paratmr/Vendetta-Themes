@@ -1,28 +1,18 @@
 {
-    "name": "最小限 Dimmed Greyish",
-    "description": "A theme made by Spicyu",
+    "name": "Minimalist Light",
     "authors": [
         {
-            "name": "Spicyu",
-            "id": "833073003452825630"
+            "name": "Ayrisj",
+            "id": "735310025064448030"
         }
     ],
+    "spec": 2,
     "semanticColors": {
-        "CHAT_BACKGROUND": {
-          "colors": {
-          "dark": "#fffff"
-    }
-  },
-        "TEXT_NORMAL": ["#9b9b9b"]
+        "CHAT_BACKGROUND": ["#fffff"]
     },
     "rawColors": {
         "BRAND_260": "#9b9b9b",
         "BRAND_360": "#9b9b9b",
         "BRAND_500": "#757575"
-    },
-    "background": {
-        "blur": 0,
-        "alpha": 0.68
-    },
-    "spec": 2
     }
+}
