@@ -11,6 +11,7 @@
         "BACKGROUND_ACCENT": ["#757575"],
         "BACKGROUND_FLOATING": ["#252525"],
         "INTERACTIVE_NORMAL": ["#9b9b9b"],
+        "CHAT_BACKGROUND": ["#fffff"],
         "TEXT_NORMAL": ["#9b9b9b"]
     },
     "rawColors": {
