@@ -8,7 +8,11 @@
         }
     ],
     "semanticColors": {
-        "CHAT_BACKGROUND": ["#fffff"],
+        "CHAT_BACKGROUND": {
+          "colors": {
+          "dark": "#fffff"
+    }
+  },
         "TEXT_NORMAL": ["#9b9b9b"]
     },
     "rawColors": {
