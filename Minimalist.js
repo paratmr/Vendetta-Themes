@@ -1,14 +1,17 @@
 {
     "name": "最小限 Dimmed Greyish",
-    "description": "A theme made by ayrisj",
+    "description": "A theme made by Spicyu",
     "authors": [
         {
-            "name": "ayrisj",
-            "id": "735310025064448030"
+            "name": "Spicyu",
+            "id": "833073003452825630"
         }
     ],
     "semanticColors": {
-        "BACKGROUND_ACCENT": ["#757575"]
+        "BACKGROUND_ACCENT": ["#757575"],
+        "BACKGROUND_FLOATING": ["#252525"],
+        "INTERACTIVE_NORMAL": ["#9b9b9b"],
+        "TEXT_NORMAL": ["#9b9b9b"]
     },
     "rawColors": {
         "BRAND_260": "#9b9b9b",
@@ -26,4 +29,4 @@
         "alpha": 0.68
     },
     "spec": 2
-    
+    }
